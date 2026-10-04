@@ -62,3 +62,8 @@ GitHub 自动提供的 Source code 压缩包是源码；玩家请下载上面的
 
 作者：**WHUytfCN**。源码公开，限非商业使用，采用 [PolyForm Noncommercial 1.0.0](LICENSE.md)。
 请保留[署名及权利说明](NOTICE.md)。本项目与 Ironhide 无隶属或背书关系，游戏及相关权利归各自权利人所有。
+
+## 更多文档
+
+- [发布说明](docs/RELEASE_NOTES.md)
+- [构建与测试（维护者）](docs/BUILD.md)
