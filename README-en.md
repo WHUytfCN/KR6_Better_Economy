@@ -56,7 +56,6 @@ Other buttons on the settings page:
 - The installer requires .NET Framework 4.5 or later. Running the plugin requires Windows PowerShell.
 - The installer does not currently support symbolic links or directory junctions. You need write access to the installation directory.
 - The installer is not code-signed, so Windows may show an unknown publisher warning. Check the download source and the included `SHA256SUMS.txt`.
-- Running the installer again preserves your existing settings. When upgrading from the old `KR6Economy` folder, it copies the old settings only if the new folder has no configuration, and leaves the old folder in place.
 - Before updating by manually extracting a portable package, back up `settings.ini` so that the package's defaults do not overwrite your settings.
 
 ## Disable or uninstall
