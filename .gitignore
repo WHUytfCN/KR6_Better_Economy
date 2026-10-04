@@ -1,0 +1,9 @@
+/dist/
+/build/
+/analysis/
+/logs/
+__pycache__/
+*.pyc
+*.bak
+*.tmp
+.install-*/
