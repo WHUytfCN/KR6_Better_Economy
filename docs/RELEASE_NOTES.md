@@ -1,5 +1,7 @@
 # KR6 Better Economy v0.1.0 — 首个公开测试版
 
+[简体中文](RELEASE_NOTES.md) | [English](../docs-en/RELEASE_NOTES.md) | [返回 README](../README.md)
+
 提供可选的关卡经济调节，支持全局、开局、敌人金币倍率和敌方召唤赏金开关。
 保留原版战斗、塔价、升级价格与卖塔退款规则。默认三个倍率 ×1.00，召唤奖励关闭。
 
