@@ -1,5 +1,7 @@
 # 构建与测试
 
+[简体中文](BUILD.md) | [English](../docs-en/BUILD.md) | [返回 README](../README.md)
+
 运行插件不需要开发工具。本页仅用于维护者从源码构建安装器。
 
 ## 构建安装器
